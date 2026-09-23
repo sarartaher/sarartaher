@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner.svg" alt="Sifur Taher Sarar banner">
+<img src="./banner.jpg" alt="Sifur Taher Sarar banner">
 
 <br/>
 
