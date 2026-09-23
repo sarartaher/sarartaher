@@ -1,19 +1,17 @@
-<!-- ব্যানার ইমেজ যোগ করার জায়গা — Canva/Figma-তে একটা সিম্পল ব্যানার বানিয়ে এখানে লিংক বসাও -->
-<!-- <img src="[banner-image-url]" width="100%" /> -->
+<img src="./banner.svg" width="100%" />
 
 <h1 align="center">Sifur Taher Sarar</h1>
 <h3 align="center">Web Developer | CSE Undergraduate</h3>
 
 ### 🧑‍💻 About Me
 
-আমি Sifur Taher Sarar, একজন Web Developer এবং Computer Science and Engineering-এর শিক্ষার্থী। React, Node.js, Express.js নিয়ে কাজ করতে ভালোবাসি, পাশাপাশি C++, C#, .NET, PHP এবং ডাটাবেজ (SQL Server, MySQL, Oracle, MongoDB) নিয়েও কাজের অভিজ্ঞতা আছে। নতুন টেকনোলোজি শেখা এবং রিয়েল-ওয়ার্ল্ড প্রজেক্ট তৈরি করাটাই আমার সবচেয়ে বেশি ভালো লাগে।
+আমি Sifur Taher Sarar, একজন Web Developer এবং Computer Science and Engineering-এর শিক্ষার্থী। নতুন টেকনোলোজি শেখা এবং রিয়েল-ওয়ার্ল্ড প্রজেক্ট তৈরি করাটাই আমার সবচেয়ে বেশি ভালো লাগে।
 
 ### 🚀 বর্তমানে কী নিয়ে কাজ করছি
 
-- 🔨 Next.js ও React দিয়ে ফুল-স্ট্যাক ওয়েব প্রজেক্ট তৈরি করছি
-- 📚 React Hooks ও Advanced JavaScript/TypeScript নিয়ে শিখছি
+- 🔨 ফুল-স্ট্যাক ওয়েব প্রজেক্ট তৈরি করছি
+- 📚 নতুন ফ্রেমওয়ার্ক ও অ্যাডভান্সড কনসেপ্ট নিয়ে শিখছি
 - 🌱 একজন Web Developer হিসেবে দক্ষতা বাড়িয়ে ফ্রিল্যান্স/জব-রেডি হওয়ার চেষ্টা করছি
-- 🛠️ .NET ও Express.js দুই ব্যাকএন্ড ইকোসিস্টেম নিয়েই এক্সপ্লোর করছি
 
 - 📫 **How to reach me:** saifurtahersarar7@gmail.com
 
